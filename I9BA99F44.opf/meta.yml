@@ -1,0 +1,16 @@
+id: I9BA99F44
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:07:50.860271
+last_modified: 2023-02-08 16:07:50.860441
+source_metadata:
+  title: Tārānamaskāraikaviṃśatistotra
+  language: sa
+bases:
+  700A:
+    base_file: 700A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
